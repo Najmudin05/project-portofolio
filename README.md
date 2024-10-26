@@ -17,7 +17,7 @@
 2. Additionally, this cohort remained loyal, with a retention rate of around 40% or more for the following months. However, it should be noted that the majority of users across various cohorts did not return to transact, with retention rates not reaching 50%.
 3. Of particular concern is the lowest retention rate observed in December 2010, highlighting end-of-year challenges in retaining users.
 
-## Project 2 : User Segmentation 
+## Project 2 : User Segmentation Analysis
 
 ### *Summary:*
 1. From user data, it appears that the segments with the largest number of users are Hibernating (27.3%), Champions (14.1%), and Loyal Customers (14.0%).

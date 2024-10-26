@@ -1,4 +1,4 @@
-# Najmudin Nuwari Portfolio
+# **Najmudin Nuwari Portfolio**
 
 ## Project 1 : Movie Analysis
 
